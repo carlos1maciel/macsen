@@ -1,4 +1,4 @@
-# ⚡ Sparo — Automação Inteligente v2.0
+# ⚡ MacSen — Automação Inteligente v2.0
 
 Uma Landing Page de alto impacto com estética **Cyber-Tactical**, desenvolvida para apresentar soluções de automação de processos com Inteligência Artificial. O design é focado em transmitir autoridade, inovação técnica e eficiência operacional.
 
@@ -7,7 +7,7 @@ Uma Landing Page de alto impacto com estética **Cyber-Tactical**, desenvolvida 
 
 ## 🛠️ Visão Geral
 
-O projeto **Sparo** utiliza uma identidade visual inspirada em interfaces militares futuristas (Military HUDs) e elementos Sci-Fi, combinando tons de Cyan, efeitos de glitch e micro-interações dinâmicas para criar uma experiência de usuário premium e imersiva.
+O projeto **MacSen** utiliza uma identidade visual inspirada em interfaces militares futuristas (Military HUDs) e elementos Sci-Fi, combinando tons de Cyan, efeitos de glitch e micro-interações dinâmicas para criar uma experiência de usuário premium e imersiva.
 
 ## ✨ Funcionalidades Principais
 
@@ -57,4 +57,4 @@ macsen/
 ---
 
 Desenvolvido com foco em **Eficiência e Estética de Ponta**.
-© 2025 SPARO // SYSTEM_PROTOCOL_ACTIVE
+© 2025 MACSEN // SYSTEM_PROTOCOL_ACTIVE

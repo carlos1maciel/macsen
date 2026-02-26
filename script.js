@@ -1,5 +1,5 @@
 /* ============================================================
-   SPARO — MODERN INTERACTIVE SCRIPTS
+   MACSEN — MODERN INTERACTIVE SCRIPTS
    ============================================================ */
 
 document.addEventListener("DOMContentLoaded", () => {
