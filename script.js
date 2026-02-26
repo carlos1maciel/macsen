@@ -334,7 +334,7 @@ document.addEventListener("DOMContentLoaded", () => {
         const diffX = (e.clientX - centerX) / 40;
         const diffY = (e.clientY - centerY) / 40;
 
-        heroTitle.style.textShadow = `${-diffX}px ${-diffY}px 30px rgba(0, 243, 255, 0.4)`;
+        heroTitle.style.textShadow = `${-diffX}px ${-diffY}px 30px rgba(255, 162, 96, 0.4)`;
       },
       { passive: true },
     );
